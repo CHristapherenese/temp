@@ -1,0 +1,24 @@
+{
+    "name": "Temp",
+    "description": "",
+    "dependencies": {
+        "adafruit-metro-m0-express": "*",
+        "pxt-ht16k33": "github:christapherenese/pxt-ht16k33#8af11d29ec00b68f14af6d299647cfdd7fd8bd8c",
+        "seesaw": "github:adafruit/pxt-seesaw#v0.0.19",
+        "display": "*",
+        "datalogger": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
